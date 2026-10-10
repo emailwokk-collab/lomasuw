@@ -1,0 +1,8 @@
+SITE ARTE & ESSÊNCIA — INSTRUÇÕES
+1. Extraia todo o conteúdo do ZIP mantendo a pasta assets.
+2. Abra index.html no navegador para visualizar.
+3. Publique todos os arquivos e a pasta assets no mesmo diretório do seu serviço de hospedagem.
+4. O Bootstrap e os ícones são carregados por CDN, então a conexão com a internet é necessária.
+5. Antes de anunciar no Google Ads, confirme que as imagens representam o negócio e que a política de privacidade descreve as ferramentas realmente usadas (por exemplo, Google Ads, Analytics, cookies, pixels ou formulários). A aprovação de anúncios não é garantida apenas pela presença destas páginas.
+6. Revise os dados cadastrais e o endereço. O texto do site foi elaborado a partir das informações fornecidas.
+Páginas incluídas: index.html, sobre.html, privacidade.html e termos.html.
